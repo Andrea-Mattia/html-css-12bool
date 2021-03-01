@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(45deg, #fde989, #e54fe1);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.content {
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(45deg, #e54fe1, #fde989);
+    border: 1px solid rgba(0,0,0, .5);
+}
